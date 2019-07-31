@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ActivityForResult</string>
+    <string name="activity_main_go">Go</string>
+    <string name="Btn_send_to_first_activity_Text">SEND</string>
+    <string name="send_your_text_to_first_activity">Send your text to first activity</string>
+</resources>
